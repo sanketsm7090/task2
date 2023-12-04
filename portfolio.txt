@@ -1,0 +1,66 @@
+MY PORTFOLIO USING HTML ONLY
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sanket using only basic html</title>
+</head>
+
+<body>
+    <h1>
+        <header><u>MY PORTFOLIO</u></header>
+    </h1>
+    <main>
+        <section>
+           
+            <h2>
+                <img src="https://static.vecteezy.com/system/resources/previews/012/352/057/non_2x/graduation-hat-illustration-in-the-flat-style-graduation-cap-isolated-on-the-transparent-background-vector.jpg" height="40"><u>EDUCATION QUALIFICATION</u>
+            </h2>
+            <ul>
+                <li>
+                    <h3><u>SCHOOL:</u></h3>JAWAHAR NAVODAYA VIDYALAYA, YADGIR
+                </li>
+                <br />
+                <li>
+                    <h3><u>JUNIOR COLLEGE:</u></h3>SHREE GURU INDEPENDENT PU COLLEGE
+                </li>
+                <br />
+                <li>
+                    <h3><u>DEGREE:</u></h3>BENGLORE INSTITUTE OF TECHNOLOGY
+                </li>
+                <br />
+        </section>        
+        <section>    
+            <h2>
+                <img src="https://static.vecteezy.com/system/resources/previews/007/343/223/non_2x/illustration-of-human-resource-capacity-improvement-icon-expertise-experience-increases-free-vector.jpg" height="40"><u>EXPERIENCE</u>
+            </h2>
+            <dl>
+                <dt><b>JAVA INTURNSHIP</b></dt>
+                    <dd>CONDUCTED IN THE INSTITUTION 
+                        <br/>
+                        <em>(SEPT'20 - DEC'20)</em>
+                    </dd>
+            </dl>
+            <a href="https://drive.google.com/drive/folders/1QreVOrbUJvE1FC-mKpAY5lf78NBFyPyc" target="_main"> <b>certificate</b></a>
+        </section>
+        <br/>
+        <!-- <article> </article> -->
+        <!-- <aside> </aside> -->
+        <footer>
+            <h2><u>CONTACT ME</u></h>
+            
+            <pre>
+            <img src="https://static.vecteezy.com/system/resources/thumbnails/003/720/476/small/phone-icon-telephone-icon-symbol-for-app-and-messenger-vector.jpg" height="20">  7090158890</pre>
+           
+            <pre>
+            <img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo.png" height="15">  sanketmelkeri@gmail.com</pre>
+        </footer>
+    </main>
+
+</body>
+
+</html>
